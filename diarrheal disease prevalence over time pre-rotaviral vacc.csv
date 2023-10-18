@@ -1,0 +1,12 @@
+measure,location,sex,age,cause,metric,year,val,upper,lower,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Prevalence,India,Both,<5 years,Diarrheal diseases,Number,2009,2421439.139,2819023.485,2071016.816,0.948171292
+Prevalence,India,Both,<5 years,Diarrheal diseases,Number,2010,2295939.077,2688199.948,1958746.948,0.941314572
+Prevalence,India,Both,<5 years,Diarrheal diseases,Number,2011,2161200.909,2539249.691,1839680.399,0.9268144
+Prevalence,India,Both,<5 years,Diarrheal diseases,Number,2012,2003032.123,2369063.801,1690003.717,0.920608478
+Prevalence,India,Both,<5 years,Diarrheal diseases,Number,2013,1844008.355,2215115.534,1531850.187,0.934227186

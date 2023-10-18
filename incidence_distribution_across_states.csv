@@ -1,0 +1,33 @@
+State,CRS,Children Admitted,Children Enrolled,Samples Tested,RV Positive,%
+West Bengal,Kolkata,1754,1457,1367,680,49.7
+West Bengal,Midnapore,1830,1171,1063,569,53.5
+Assam,Dibrugarh,693,680,529,203,38.4
+Nagaland,Dimapur,614,614,546,220,40.3
+Bihar,Patna,1172,953,967,169,17.5
+Bihar,Nalanda,762,748,662,96,14.5
+Odisha,Bhubaneswar,2020,1281,712,391,54.9
+East,,8845,6904,5846,2328,39.8
+Maharashtra,Pune,1179,1058,804,389,48.4
+Maharashtra,Mumbai,771,706,629,189,30
+Maharashtra,Karad,1014,1000,844,294,34.8
+Gujarat,Ahmedabad,512,510,400,92,23
+Gujarat,Surat,1249,1207,1033,308,29.8
+West,,4725,4481,3710,1272,34.3
+Tamil Nadu,Vellore,1760,1549,1337,392,29.3
+Tamil Nadu,Trichy,679,655,561,277,49.4
+Tamil Nadu,Chennai,1493,1336,1123,338,30.1
+andaman & nicobar islands,Port Blair,1557,1557,1453,593,40.8
+Kerala,Kolenchery,1282,1143,899,389,43.3
+Telangana,Hyderabad,1056,686,663,164,24.7
+Andra Pradesh,Tirupati,826,798,784,184,23.5
+Karanataka,Belgaum,625,615,574,162,28.2
+South,,9278,8339,7394,2499,33.8
+Punjab,Ludhiana,751,748,569,213,37.4
+Himachal Pradesh,Tanda,710,513,454,241,53.1
+Uttar Pradesh,Meerut,528,515,458,83,18.1
+New Delhi,Delhi*,2666,2105,1864,844,45.3
+Haryana,Rohtak,1040,655,538,161,29.9
+Madhya Pradesh,Jabalpur,505,475,336,94,28
+,Bhopal,394,394,252,48,19
+North,,6594,5405,4471,1684,37.7
+India Total,,"29,442","25,129","21,421",7783,36.3
